@@ -1,2 +1,19 @@
-# My-Portfolifo-Website
-My Personal portfolio website showcasing my project and skills.
+#AWS Static Portfolio Website
+## Project Overview
+Hosted a static portfolio website using AWS S3 and CloudFront.
+
+## AWS Services Used
+- S3
+- CloudFront
+- Route 53 (optional)
+
+## Features
+- Static website hosting
+- HTTPS enabled
+- Global CDN delivery
+
+## Live Demo
+https://your-cloudfront-link
+
+## Architecture
+User → CloudFront → S3 Bucket
