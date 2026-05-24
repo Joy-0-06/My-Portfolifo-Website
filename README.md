@@ -13,7 +13,7 @@ Hosted a static portfolio website using AWS S3 and CloudFront.
 - Global CDN delivery
 
 ## Live Demo
-https://dzf6gvggfpww8.cloudfront.net
+https://d1u7nkn91vbo59.cloudfront.net
 
 ## Architecture
 User → CloudFront → S3 Bucket
